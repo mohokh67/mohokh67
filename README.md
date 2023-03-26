@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm MoHo 👋
 
 <!--
 **mohokh67/mohokh67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 - 📹 [My Youtube channel](http://youtube.com/c/mohokh) Most talks are about books I read 📖 📖
 - :octocat: [Some Gists](https://gist.github.com/mohokh67)
 
+<div align="center">
+	<a href="https://github.com/mohokh67/mohokh67">
+ 		<img src="https://github.com/mohokh67/mohokh67/blob/main/snake.svg" alt="mohokh67" />
+	</a>
+</div>
 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohokh67&langs_count=10&layout=compact&hide_progress=true" alt="mohokh67 Most Used Languages" /></p>
