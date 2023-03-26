@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 - 📹 [My Youtube channel](http://youtube.com/c/mohokh) Most talks are about books I read 📖 📖
 - 📹 [My Youtube channel](https://www.youtube.com/channel/UClNqqd-IGoaEERpriY4CNgQ) Small videos about coding ⌨️
 - :octocat: [Some Gists](https://gist.github.com/mohokh67)
+
+
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohokh67&langs_count=10&layout=compact&hide_progress=true" alt="mohokh67 Most Used Languages" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=mohokh67&show_icons=true" alt="mohokh67" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohokh67" alt="mohokh67" /></p>
