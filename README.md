@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 - 🌍 [My Personal website](https://linktr.ee/moho13)
+- 📹 [Dev tips by MoHo](https://www.youtube.com/@dev.channel) Small videos about coding
 - 📹 [My Youtube channel](http://youtube.com/c/mohokh) Most talks are about books I read 📖 📖
-- 📹 [My Youtube channel](https://www.youtube.com/channel/UClNqqd-IGoaEERpriY4CNgQ) Small videos about coding ⌨️
 - :octocat: [Some Gists](https://gist.github.com/mohokh67)
 
 
