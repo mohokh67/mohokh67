@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 	</a>
 </div>
 
-
+<!--
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohokh67&langs_count=10&layout=compact&hide_progress=true" alt="mohokh67 Most Used Languages" /></p>
+-->
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=mohokh67&show_icons=true" alt="mohokh67" /></p>
 
